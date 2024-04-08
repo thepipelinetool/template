@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-thepipelinetool = "0.1.215"
+thepipelinetool = "0.2.3"
 
 [[bin]]
 name = "my_dag"
